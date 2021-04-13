@@ -16,7 +16,7 @@ const BuyNowScreen = props => {
 		let location = await Location.getCurrentPositionAsync({});
 		const response = await fetch(`https://maps.googleapis.com/maps/api/geocode/json?latlng=${location.coords.latitude
 			},${location.coords.longitude
-			}&key=AIzaSyCw5XeWs_aLFGwYHBFwvclHCFJUmC0JkCM`);
+			}&key=YOUR_API_KEY`);
 		const resData = await response.json();
 		let formattedAddress = resData.results[0].formatted_address;
 		setAddress(formattedAddress);
