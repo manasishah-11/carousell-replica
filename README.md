@@ -22,3 +22,7 @@
 1. Create a new project in Google Cloud Console.
 2. Enable the Google Maps Platform APIs for Map and Places.
 3. Go to your project and click "Create Credentials" under APIs & Services > Credentials page -> API key is generated and ready to be used.
+
+| Carousell | Carousell-Replica |
+| --- | --- |
+| <img src="https://github.com/manasishah-11/large-gif/blob/master/carousell.gif" width="200" height="400"> | <img src="https://github.com/manasishah-11/large-gif/blob/master/carousell-replica.gif" width="200" height="400"> |
