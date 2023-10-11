@@ -6,17 +6,7 @@
 - The user can like/unlike a product, which he may buy in the future.
 - In the BuyNow Screen, the user is able to get his current location after granting permission to the app to access its location.
 - For selling a product, the user can choose an image from his local device and give necessary information about the product.
-
-## How you can use this app
-#### System prerequisites
-1. node.js
-2. expo 
-
-#### Running on your system
-1. Download the zip file of the code and extract it at your desired location.
-2. In the terminal, go to the project path and run the command `npm install`.
-3. After all the dependencies are installed, run the command `npm start`. This will start the expo server.
-4. Now you can choose to run your app on a mobile simulator or your mobile phone.
+- It is built in Expo.
 
 #### Getting GoogleMaps API
 1. Create a new project in Google Cloud Console.
